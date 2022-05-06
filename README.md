@@ -1,2 +1,2 @@
 # PartidoParral
-Proyecto realizado a Gallera
+Proyecto realizado a Gallera en Java y MySQL
